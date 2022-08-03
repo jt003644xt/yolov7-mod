@@ -2,9 +2,9 @@
 # train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
 
 
-train: /content/CCPD2020/ccpd_green/train
-val: /content/CCPD2020/ccpd_green/val
-test: /content/CCPD2020/ccpd_green/test
+train: /content/CCPD2020/ccpd_green/images/train
+val: /content/CCPD2020/ccpd_green/images/val
+test: /content/CCPD2020/ccpd_green/images/test
 
 # number of classes
 nc: 1
